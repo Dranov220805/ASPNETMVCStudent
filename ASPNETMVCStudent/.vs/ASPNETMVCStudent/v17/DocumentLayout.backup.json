@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\HK4\\Software Engineering\\Labs\\Lab06\\ASPNETMVCStudent\\ASPNETMVCStudent\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC34DE08-C731-4E35-8C11-8CCD5E7566D5}|Solution Items{CC34DE08-C731-4E35-8C11-8CCD5E7566D5}|D:\\HK4\\Software Engineering\\Labs\\Lab06\\ASPNETMVCStudent\\ASPNETMVCStudent\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC34DE08-C731-4E35-8C11-8CCD5E7566D5}|Solution Items{CC34DE08-C731-4E35-8C11-8CCD5E7566D5}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 207,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +39,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "D:\\HK4\\Software Engineering\\Labs\\Lab06\\ASPNETMVCStudent\\ASPNETMVCStudent\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "D:\\HK4\\Software Engineering\\Labs\\Lab06\\ASPNETMVCStudent\\ASPNETMVCStudent\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-01T08:51:50.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
